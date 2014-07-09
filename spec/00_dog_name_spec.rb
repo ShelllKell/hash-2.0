@@ -6,3 +6,5 @@ describe 'Dog Hash' do
     expect(DOG[:cattle_dog][:preferences].first[:name]).to eq("Harleigh")
   end
 end
+
+
